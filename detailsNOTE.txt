@@ -1,0 +1,4 @@
+SINGLETON pattern implemented in OLX class
+FACTORY DESIGN PATTERN implemented in GUEST class on sharing of advertisement to a social media platform
+OBSERVER PATTERN in event and social media
+ITERATOR PATTERN built in lists of JAVA
